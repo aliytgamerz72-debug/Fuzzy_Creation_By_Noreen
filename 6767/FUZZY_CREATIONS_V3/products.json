@@ -1,0 +1,422 @@
+[
+  {
+    "fuzzy": 9,
+    "filename": "beautiful-bouquet.webp",
+    "name": "Beautiful Bouquet",
+    "price": 200,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 28,
+    "filename": "bouquet-179.webp",
+    "name": "Bouquet",
+    "price": 179,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 34,
+    "filename": "bouquet-199.webp",
+    "name": "Bouquet",
+    "price": 199,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 23,
+    "filename": "bouquet-215.webp",
+    "name": "Bouquet",
+    "price": 215,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 11,
+    "filename": "bouquet-259-1.webp",
+    "name": "Bouquet",
+    "price": 259,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 24,
+    "filename": "bouquet-259-2.webp",
+    "name": "Bouquet",
+    "price": 259,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 25,
+    "filename": "bouquet-259-3.webp",
+    "name": "Bouquet",
+    "price": 259,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 32,
+    "filename": "bouquet-259-4.webp",
+    "name": "Bouquet",
+    "price": 259,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 27,
+    "filename": "bouquet-279-1.webp",
+    "name": "Bouquet",
+    "price": 279,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 30,
+    "filename": "bouquet-279-2.webp",
+    "name": "Bouquet",
+    "price": 279,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 31,
+    "filename": "bouquet-279-3.webp",
+    "name": "Bouquet",
+    "price": 279,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 29,
+    "filename": "bouquet-289.webp",
+    "name": "Bouquet",
+    "price": 289,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 12,
+    "filename": "bouquet-300.webp",
+    "name": "Bouquet",
+    "price": 300,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 38,
+    "filename": "bouquet-349.webp",
+    "name": "Bouquet",
+    "price": 349,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 43,
+    "filename": "bouquet-389.webp",
+    "name": "Bouquet",
+    "price": 389,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 26,
+    "filename": "bouquet-399-1.webp",
+    "name": "Bouquet",
+    "price": 399,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 42,
+    "filename": "bouquet-399-2.webp",
+    "name": "Bouquet",
+    "price": 399,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 44,
+    "filename": "bouquet-459.webp",
+    "name": "Bouquet",
+    "price": 459,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 37,
+    "filename": "bouquet-499-1.webp",
+    "name": "Bouquet",
+    "price": 499,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 40,
+    "filename": "bouquet-499-2.webp",
+    "name": "Bouquet",
+    "price": 499,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 33,
+    "filename": "bouquet-699-1.webp",
+    "name": "Bouquet",
+    "price": 699,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 36,
+    "filename": "bouquet-699-2.webp",
+    "name": "Bouquet",
+    "price": 699,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 39,
+    "filename": "bouquet-699-3.webp",
+    "name": "Bouquet",
+    "price": 699,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 35,
+    "filename": "bouquet-899.webp",
+    "name": "Bouquet",
+    "price": 899,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 41,
+    "filename": "chocolate-flower-bouquet.webp",
+    "name": "Chocolate Flower Bouquet",
+    "price": "Customise",
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 18,
+    "filename": "single-tulip-bouquet.webp",
+    "name": "Single Tulip Bouquet",
+    "price": 295,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 1,
+    "filename": "sunflower-bouquet.webp",
+    "name": "Sunflower Bouquet",
+    "price": 135,
+    "category": "Bouquets"
+  },
+  {
+    "fuzzy": 22,
+    "filename": "customised-hairclutcher.webp",
+    "name": "Customised Hair Clutcher",
+    "price": 105,
+    "category": "Hairbands"
+  },
+  {
+    "fuzzy": 19,
+    "filename": "hibiscus-hairband.webp",
+    "name": "Hibiscus Hairband",
+    "price": 85,
+    "category": "Hairbands"
+  },
+  {
+    "fuzzy": 69,
+    "filename": "daisy-pot.webp",
+    "name": "Daisy Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 61,
+    "filename": "flower-pot-1.webp",
+    "name": "Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 62,
+    "filename": "flower-pot-2.webp",
+    "name": "Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 66,
+    "filename": "flower-pot-3.webp",
+    "name": "Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 68,
+    "filename": "flower-pot-4.webp",
+    "name": "Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 73,
+    "filename": "flower-pot-5.webp",
+    "name": "Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 64,
+    "filename": "flower-pot-6.webp",
+    "name": "Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 63,
+    "filename": "flowers-pot-1.webp",
+    "name": "Flowers Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 67,
+    "filename": "flowers-pot-2.webp",
+    "name": "Flowers Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 72,
+    "filename": "heart-flower-pot.webp",
+    "name": "Heart Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 65,
+    "filename": "lavender-pot.webp",
+    "name": "Lavender Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 70,
+    "filename": "sunflower-pot.webp",
+    "name": "Sunflower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 20,
+    "filename": "tulip-flower-pot.webp",
+    "name": "Tulip Flower Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 71,
+    "filename": "tulip-flowers-pot.webp",
+    "name": "Tulip Flowers Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 60,
+    "filename": "tulip-pot.webp",
+    "name": "Tulip Pot",
+    "price": 250,
+    "category": "Pots"
+  },
+  {
+    "fuzzy": 48,
+    "filename": "alphabet-keychain.webp",
+    "name": "Alphabet Key Chain",
+    "price": 75,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 59,
+    "filename": "blue-bow-keychain.webp",
+    "name": "Blue Bow Key Chain",
+    "price": 55,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 51,
+    "filename": "bow-keychain.webp",
+    "name": "Bow Key Chain",
+    "price": 55,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 50,
+    "filename": "daisy-keychain.webp",
+    "name": "Daisy Key Chain",
+    "price": 70,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 45,
+    "filename": "flower-bouquet-keychain.webp",
+    "name": "Flower Bouquet Key Chain",
+    "price": 45,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 57,
+    "filename": "flower-keychain.webp",
+    "name": "Flower Key Chain",
+    "price": 100,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 47,
+    "filename": "heart-keychain.webp",
+    "name": "Heart Key Chain",
+    "price": 45,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 46,
+    "filename": "heart-stack-keychain.webp",
+    "name": "Heart Stack Key Chain",
+    "price": 55,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 49,
+    "filename": "keychain-55.webp",
+    "name": "Key Chain",
+    "price": 55,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 53,
+    "filename": "lily-keychain.webp",
+    "name": "Lily Key Chain",
+    "price": 80,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 54,
+    "filename": "ribbon-bow-keychain.webp",
+    "name": "Ribbon Bow Key Chain",
+    "price": 55,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 58,
+    "filename": "rose-keychain.webp",
+    "name": "Rose Key Chain",
+    "price": 90,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 55,
+    "filename": "strawberry-keychain.webp",
+    "name": "Strawberry Key Chain",
+    "price": 70,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 52,
+    "filename": "sunflower-keychain.webp",
+    "name": "Sunflower Key Chain",
+    "price": 80,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 56,
+    "filename": "three-flower-keychain.webp",
+    "name": "Three Flower Key Chain",
+    "price": 60,
+    "category": "Key Chains"
+  },
+  {
+    "fuzzy": 21,
+    "filename": "customised-phone-cover.webp",
+    "name": "Customised Phone Cover",
+    "price": 259,
+    "category": "Phone Covers"
+  }
+]
